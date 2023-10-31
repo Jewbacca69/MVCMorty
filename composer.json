@@ -1,5 +1,5 @@
 {
-    "name": "vilnis/web-articles",
+    "name": "vilnis/rick-and-morty",
     "type": "project",
     "require": {
         "nesbot/carbon": "^2.71",
