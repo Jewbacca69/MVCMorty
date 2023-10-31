@@ -1,0 +1,21 @@
+{
+    "name": "vilnis/web-articles",
+    "type": "project",
+    "require": {
+        "nesbot/carbon": "^2.71",
+        "nikic/fast-route": "^1.3",
+        "twig/twig": "^3.7",
+        "symfony/http-client": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "RickAndMorty\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jewbacca69",
+            "email": "vilnisgrinbergs22@proton.me"
+        }
+    ]
+}
